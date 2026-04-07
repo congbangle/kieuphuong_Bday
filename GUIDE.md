@@ -52,20 +52,22 @@ Go to [github.com](https://github.com) and sign up for a free account if you don
 ## Part 2 — Add your photos
 
 ### Naming your photos
-Rename each of your 40 photos to match exactly:
+Rename each of your **50 photos** to match exactly:
 
-| File name | Chapter | Slot |
+| File name | Chapter | Description |
 |---|---|---|
-| `photo_01.jpeg` | Chapter I | Photo 1 |
-| `photo_02.jpeg` | Chapter I | Photo 2 |
-| ... | ... | ... |
-| `photo_05.jpeg` | Chapter I | Photo 5 |
-| `photo_06.jpeg` | Chapter II | Photo 1 |
-| ... | ... | ... |
-| `photo_40.jpeg` | Chapter VIII | Photo 5 |
+| `photo_01.jpeg` – `photo_05.jpeg` | Chapter I | The Beginning of Us |
+| `photo_06.jpeg` – `photo_10.jpeg` | Chapter II | Quiet Mornings |
+| `photo_11.jpeg` – `photo_15.jpeg` | Chapter III | Days in the Sun |
+| `photo_16.jpeg` – `photo_20.jpeg` | Chapter IV | Adventures Together |
+| `photo_21.jpeg` – `photo_25.jpeg` | Chapter V | Small, Tender Moments |
+| `photo_26.jpeg` – `photo_30.jpeg` | Chapter VI | Her Laughter |
+| `photo_31.jpeg` – `photo_35.jpeg` | Chapter VII | Growing Together |
+| `photo_36.jpeg` – `photo_40.jpeg` | Chapter VIII | Always & Forever |
+| `photo_41.jpeg` – `photo_50.jpeg` | **Chapter IX** | **Her Beauty & This Day** (10 photos) |
 
-> **Important:** The file name must be lowercase with an underscore: `photo_01.jpeg` not `Photo1.jpg`.  
-> If your photos are `.jpg` (not `.jpeg`), either rename them to `.jpeg` or open `index.html` and find every `photo_XX.jpeg` and change `.jpeg` to `.jpg`.
+> **Important:** File names must be lowercase with underscore: `photo_01.jpeg` not `Photo1.jpg`.  
+> If your photos are `.jpg` (not `.jpeg`), open `index.html`, search for `.jpeg` and replace all with `.jpg`.
 
 ### Upload photos to GitHub
 1. In your repository, click on the `_source` folder
@@ -164,7 +166,7 @@ The site updates automatically within 1–2 minutes.
 
 ## Quick checklist before sharing the link
 
-- [ ] All 40 photos named `photo_01.jpeg` through `photo_40.jpeg`
+- [ ] All 50 photos named `photo_01.jpeg` through `photo_50.jpeg`
 - [ ] All photos uploaded to the `_source/` folder on GitHub
 - [ ] Music file named `music.mp3` and uploaded to `_source/`
 - [ ] Text content (names, dates, verses) edited in `index.html`
